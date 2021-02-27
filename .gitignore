@@ -51,4 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-boot/kernel.bin
+*.bin
+boot/*.bin
+
+dist/*
